@@ -1,5 +1,4 @@
 //////////////////////////////////////////////////////////////////////////
-// FINAL PROJECT:                                                       //
 // By: Jared Weyer                                                      //
 //                                                                      //
 // for my project I tryed to create a platform that will alow two       //
